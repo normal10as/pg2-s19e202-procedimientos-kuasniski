@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Nueva_fecha\bin\Debug\netcoreapp2.1\Nueva_fecha.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Nueva_fecha\bin\Debug\netcoreapp2.1\Nueva_fecha.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Nueva_fecha\bin\Debug\netcoreapp2.1\Nueva_fecha.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Nueva_fecha\bin\Debug\netcoreapp2.1\Nueva_fecha.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Nueva_fecha\bin\Debug\netcoreapp2.1\Nueva_fecha.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Nueva_fecha\obj\Debug\netcoreapp2.1\Nueva_fecha.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Nueva_fecha\obj\Debug\netcoreapp2.1\Nueva_fecha.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Nueva_fecha\obj\Debug\netcoreapp2.1\Nueva_fecha.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Nueva_fecha\obj\Debug\netcoreapp2.1\Nueva_fecha.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Nueva_fecha\obj\Debug\netcoreapp2.1\Nueva_fecha.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Nueva_fecha\obj\Debug\netcoreapp2.1\Nueva_fecha.pdb

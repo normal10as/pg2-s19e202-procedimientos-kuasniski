@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.pdb

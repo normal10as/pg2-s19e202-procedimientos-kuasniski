@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\SuperficieFiguras\bin\Debug\netcoreapp2.1\SuperficieFiguras.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\SuperficieFiguras\bin\Debug\netcoreapp2.1\SuperficieFiguras.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\SuperficieFiguras\bin\Debug\netcoreapp2.1\SuperficieFiguras.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\SuperficieFiguras\bin\Debug\netcoreapp2.1\SuperficieFiguras.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\SuperficieFiguras\bin\Debug\netcoreapp2.1\SuperficieFiguras.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\SuperficieFiguras\obj\Debug\netcoreapp2.1\SuperficieFiguras.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\SuperficieFiguras\obj\Debug\netcoreapp2.1\SuperficieFiguras.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\SuperficieFiguras\obj\Debug\netcoreapp2.1\SuperficieFiguras.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\SuperficieFiguras\obj\Debug\netcoreapp2.1\SuperficieFiguras.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\SuperficieFiguras\obj\Debug\netcoreapp2.1\SuperficieFiguras.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\SuperficieFiguras\obj\Debug\netcoreapp2.1\SuperficieFiguras.pdb

@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\VolumenCilindro\obj\Debug\netcoreapp2.1\VolumenCilindro.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\VolumenCilindro\obj\Debug\netcoreapp2.1\VolumenCilindro.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\VolumenCilindro\obj\Debug\netcoreapp2.1\VolumenCilindro.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\VolumenCilindro\obj\Debug\netcoreapp2.1\VolumenCilindro.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\VolumenCilindro\bin\Debug\netcoreapp2.1\VolumenCilindro.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\VolumenCilindro\bin\Debug\netcoreapp2.1\VolumenCilindro.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\VolumenCilindro\bin\Debug\netcoreapp2.1\VolumenCilindro.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\VolumenCilindro\bin\Debug\netcoreapp2.1\VolumenCilindro.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\VolumenCilindro\bin\Debug\netcoreapp2.1\VolumenCilindro.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\VolumenCilindro\obj\Debug\netcoreapp2.1\VolumenCilindro.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-procedimientos-kuasniski\Procedimientos\VolumenCilindro\obj\Debug\netcoreapp2.1\VolumenCilindro.pdb
